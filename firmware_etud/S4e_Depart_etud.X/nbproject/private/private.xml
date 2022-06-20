@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jbm/Desktop/mat_pedago/S4e_APP4/firmware_etud/firmware_etud/src/system_config/default/framework/tcpip/berkeley_api.h</file>
+            <file>file:/C:/Users/jbm/Desktop/mat_pedago/S4e_APP4/firmware_etud/firmware_etud/src/system_config/default/framework/driver/encx24j600/drv_encx24j600_api.c</file>
+            <file>file:/C:/Users/jbm/Desktop/mat_pedago/S4e_APP4/firmware_etud/firmware_etud/src/system_config/default/framework/tcpip/src/tcpip_manager.c</file>
+            <file>file:/C:/Users/jbm/Desktop/mat_pedago/S4e_APP4/firmware_etud/firmware_etud/src/system_config/default/framework/system/clk/sys_clk.h</file>
+            <file>file:/C:/Users/jbm/Desktop/mat_pedago/S4e_APP4/firmware_etud/firmware_etud/src/system_config/default/framework/peripheral/peripheral_common_32bit.h</file>
+            <file>file:/C:/Users/jbm/Desktop/mat_pedago/S4e_APP4/firmware_etud/firmware_etud/src/system_config/default/framework/system/clk/src/sys_clk_pic32mx.c</file>
+            <file>file:/C:/Users/jbm/Desktop/mat_pedago/S4e_APP4/firmware_etud/firmware_etud/src/system_config/default/framework/peripheral/eth/processor/eth_p32mx370f512l.h</file>
+            <file>file:/C:/Users/jbm/Desktop/mat_pedago/S4e_APP4/firmware_etud/firmware_etud/src/system_config/default/framework/peripheral/ports/processor/ports_p32mx370f512l.h</file>
+            <file>file:/C:/Users/jbm/Desktop/mat_pedago/S4e_APP4/firmware_etud/firmware_etud/src/app_commands.c</file>
+        </group>
+    </open-files>
+</project-private>
